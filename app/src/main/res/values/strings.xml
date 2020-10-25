@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Project_RGU</string>
+    <string name="tv_max_weight">Max Weight:</string>
+    <string name="tv_name_val">Exercise:</string>
+    <string name="btn_update">Update</string>
+    <string name="btn_add_exercise">Add Exercise</string>
+    <string name="tv_muscle_name">Muscle:</string>
+    <string name="tv_last_trained">Last Trained:</string>
+    <string name="tv_exercise_name">Exercise:</string>
+    <string name="tv_exercise_weight">Weight</string>
+    <string name="btn_create_exercise">Create</string>
 </resources>
